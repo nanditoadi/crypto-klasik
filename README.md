@@ -14,7 +14,7 @@ git clone https://github.com/nanditoadi/crypto-klasik.git
 ```
 
 ``` bash
-cd kripto-klasik
+cd crypto-klasik
 ```
 
 ``` bash 
